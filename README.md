@@ -5,7 +5,7 @@
 Me chamo Felipe Sousa, tenho 18 anos e sou natural de Taubaté. Concluí o ensino médio na ETEC, com o curso técnico em informática.
 
 <p align="center">
-    <a href="https://github.com/SousaaDev">
+    <a href="https://www.linkedin.com/in/felipe-sousa-13080b320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
         <img 
             alt="linkedin" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
